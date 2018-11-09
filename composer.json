@@ -1,0 +1,14 @@
+{
+  "name": "spryker-feature/cart",
+  "description": "Cart [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-shop/cart-page": "^1.4.3",
+    "spryker/calculation": "^4.4.1",
+    "spryker/cart": "^5.5.2",
+    "spryker/cart-variant": "^1.0.4"
+  }
+}
