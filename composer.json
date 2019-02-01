@@ -10,5 +10,10 @@
     "spryker/calculation": "^4.4.1",
     "spryker/cart": "^5.5.2",
     "spryker/cart-variant": "^1.0.4"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
   }
 }
