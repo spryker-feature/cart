@@ -9,6 +9,7 @@
     "php": ">=7.1",
     "spryker-shop/cart-page": "^1.4.6",
     "spryker-shop/cart-to-shopping-list-widget": "^0.4.8",
+    "spryker-shop/quick-order-page": "^2.1.0",
     "spryker/calculation": "^4.4.1",
     "spryker/cart": "^5.5.3",
     "spryker/cart-variant": "^1.0.4"
