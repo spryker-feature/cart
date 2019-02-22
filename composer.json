@@ -8,7 +8,6 @@
   "require": {
     "php": ">=7.1",
     "spryker-shop/cart-page": "^1.7.0",
-    "spryker-shop/cart-to-shopping-list-widget": "^0.4.8",
     "spryker-shop/quick-order-page": "^2.1.0",
     "spryker/calculation": "^4.5.0",
     "spryker/cart": "^5.7.0",
