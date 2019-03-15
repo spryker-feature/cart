@@ -1,6 +1,6 @@
 # Spryker Feature: Cart
 
-Cart Functionality & Calculations
+The Cart feature provides functionality of the shopping cart and cart total calculations.
 
 ## Installation
 
