@@ -8,8 +8,8 @@
   "require": {
     "php": ">=7.1",
     "spryker-shop/cart-page": "^3.2.0",
-    "spryker/calculation": "^4.5.0",
-    "spryker/cart": "^7.0.0",
+    "spryker/calculation": "^4.8.0",
+    "spryker/cart": "^7.1.0",
     "spryker/cart-variant": "^1.0.4"
   },
   "extra": {
