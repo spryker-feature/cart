@@ -7,9 +7,9 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.2",
-    "spryker-shop/cart-page": "^3.2.0",
-    "spryker/calculation": "^4.8.0",
-    "spryker/cart": "^7.1.0",
+    "spryker-shop/cart-page": "^3.23.0",
+    "spryker/calculation": "^4.9.0",
+    "spryker/cart": "^7.7.0",
     "spryker/cart-variant": "^2.0.0"
   },
   "extra": {
