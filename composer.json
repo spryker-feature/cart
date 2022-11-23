@@ -6,18 +6,18 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.4",
+        "php": ">=8.0",
         "spryker-shop/cart-note-widget": "^1.4.0",
         "spryker-shop/cart-page": "^3.32.0",
         "spryker/calculation": "^4.12.0",
-        "spryker/cart": "^7.10.0",
+        "spryker/cart": "^7.11.0",
         "spryker/cart-note": "^1.0.0",
         "spryker/cart-variant": "^2.0.0",
         "spryker/persistent-cart": "^3.5.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202204.x-dev"
+            "dev-master": "202211.x-dev"
         }
     }
 }
