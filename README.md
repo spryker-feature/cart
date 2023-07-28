@@ -2,6 +2,8 @@
 
 The Cart feature provides functionality of the shopping cart and cart total calculations.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/cart-and-checkout/202204.0/base-shop/cart-feature-overview/cart-feature-overview.html)
+
 ## Installation
 
 ```
