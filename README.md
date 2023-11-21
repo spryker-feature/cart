@@ -15,7 +15,7 @@ composer require spryker-feature/cart
 - [CartCurrencyConnector ^1.2.0](https://github.com/spryker/cart-currency-connector) (Connector)
 - [CartExtension ^4.3.0](https://github.com/spryker/cart-extension) (Extension)
 - [CartNotesBackendApi ^1.0.0](https://github.com/spryker/cart-notes-backend-api) (Glue Backend)
-- [Shop.CartPageExtension ^1.1.0](https://github.com/spryker-shop/cart-page-extension) (Extension)
+- [Shop.CartPageExtension ^1.2.0](https://github.com/spryker-shop/cart-page-extension) (Extension)
 - [CartsRestApi ^5.22.0](https://github.com/spryker/carts-rest-api) (Legacy Glue)
 - [CartsRestApiExtension](https://github.com/spryker/carts-rest-api-extension) (Extension)
 - [DiscountCalculationConnector ^5.3.0](https://github.com/spryker/discount-calculation-connector) (Connector)
